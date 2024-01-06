@@ -1,5 +1,5 @@
-#Online Store Challenges <br>
-This site was built using [Online Store Challenges](https://online-store-challenge-ajmera-task1.vercel.app/).
+#Online Store Challenges <br><br>
+Website Deployment Link :  [Online Store Challenges](https://online-store-challenge-ajmera-task1.vercel.app/).
 
 <br>
 Used Two Components :
