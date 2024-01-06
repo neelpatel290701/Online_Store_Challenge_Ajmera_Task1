@@ -1,7 +1,7 @@
 #Online Store Challenges
 
 <br>
-used Two Components :
+Used Two Components :
 <br>
-1.Master View - List Of The Items
+1.Master View - List Of The Items <br>
 2.Detailed View - Details Of the Items
